@@ -18,4 +18,15 @@
         android:textSize="18dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/button1"
+        android:text="显示TimePickerDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button2"
+        android:text="显示DatePickerDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
